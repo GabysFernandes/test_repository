@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
+  <diagram name="Page-1" id="Y6fpGDgYmVc2ADRft-rF">
+    <mxGraphModel dx="946" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iLCB2iNjZVBAFK_ISW3k-6" edge="1" parent="1" source="iLCB2iNjZVBAFK_ISW3k-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iLCB2iNjZVBAFK_ISW3k-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iLCB2iNjZVBAFK_ISW3k-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="START" vertex="1">
+          <mxGeometry height="50" width="90" x="260" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="iLCB2iNjZVBAFK_ISW3k-7" edge="1" parent="1" source="iLCB2iNjZVBAFK_ISW3k-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iLCB2iNjZVBAFK_ISW3k-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iLCB2iNjZVBAFK_ISW3k-2" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Take num1,&lt;div&gt;num2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="235" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="iLCB2iNjZVBAFK_ISW3k-9" edge="1" parent="1" source="iLCB2iNjZVBAFK_ISW3k-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iLCB2iNjZVBAFK_ISW3k-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iLCB2iNjZVBAFK_ISW3k-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Average =&amp;nbsp;&lt;div&gt;(num1 + num2) / 2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="240" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="iLCB2iNjZVBAFK_ISW3k-11" edge="1" parent="1" source="iLCB2iNjZVBAFK_ISW3k-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iLCB2iNjZVBAFK_ISW3k-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iLCB2iNjZVBAFK_ISW3k-8" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Print Average" vertex="1">
+          <mxGeometry height="60" width="140" x="235" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="iLCB2iNjZVBAFK_ISW3k-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="END" vertex="1">
+          <mxGeometry height="50" width="90" x="260" y="740" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
